@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易纂言
-#+DATE: 2015-09-23 09:34:51
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:56:25.996092
+#+PROPERTY: ID KR1a0071
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0071_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　易纂言　　　　　　　易類¶
@@ -52,6 +54,7 @@
 　　　　隆四十六年九月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 卷首
 <pb:KR1a0071_WYG_000-4a>¶
 欽定四庫全書¶
 　易纂言卷首¶
@@ -319,4 +322,3 @@
 　¶
 　¶
 　易纂言卷首¶
-
